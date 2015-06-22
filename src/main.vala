@@ -1,4 +1,8 @@
+using Gtk;
 namespace METHANE{
-	public static void main(){
+	class Main : Talk{
+		public static void main(string[] args){
+
+		}
 	}
 }
